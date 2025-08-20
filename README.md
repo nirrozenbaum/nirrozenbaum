@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nirrozenbaum&showicons=true)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=nirrozenbaum&show_icons=true&theme=transparent)]()
 
 <!--
 **nirrozenbaum/nirrozenbaum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
